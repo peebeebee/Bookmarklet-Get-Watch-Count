@@ -1,0 +1,32 @@
+{
+  "name": "ng-watch-count-bookmarklet",
+  "version": "0.0.1",
+  "description": "Bookmarklet for counting Angular watchers",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-uglify": "^1.2.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-uglify": "^1.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bennadel/Bookmarklet-Get-Watch-Count.git"
+  },
+  "keywords": [
+    "angular",
+    "watchers",
+    "bookmarklet"
+  ],
+  "author": "Ben Nadel, Peter Briers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bennadel/Bookmarklet-Get-Watch-Count/issues"
+  },
+  "homepage": "https://github.com/bennadel/Bookmarklet-Get-Watch-Count#readme"
+}

@@ -16,6 +16,11 @@ said, it does not depend on jQuery - only AngularJS.
 _Note_: This is a spin-off of my [blog post, Counting The Number Of Watchers In AngularJS][blogpost].
 But, it has been modified to be more generic.
 
+# How to build...
+```
+npm install && gulp
+```
+
 [bennadel]: http://www.bennadel.com
 [googleplus]: https://plus.google.com/108976367067760160494?rel=author
 [blogpost]: http://www.bennadel.com/blog/2698-counting-the-number-of-watchers-in-angularjs.htm
